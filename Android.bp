@@ -47,6 +47,6 @@ license {
 }
 
 prebuilt_font {
-    name: "CutiveMono.ttf",
-    src: "CutiveMono.ttf",
+    name: "CutiveMono-Regular.ttf",
+    src: "CutiveMono-Regular.ttf",
 }
