@@ -17,4 +17,4 @@
 # get installed too.
 
 PRODUCT_PACKAGES := \
-    CutiveMono-Regular.ttf
+    CutiveMono.ttf
